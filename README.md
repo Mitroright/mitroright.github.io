@@ -1,7 +1,7 @@
-# [My Github](https://github.com/Mitroright?tab=repositories)
-------
-Projects
-------  
+## [My Github](https://github.com/Mitroright?tab=repositories)  
+---------  
+### Projects  
+---------  
 [Aware](/aware/) - Shop (responsive)  
 [Foodjistica](/foodjistica/) - Food recipes (responsive)  
 [Strakhovka](/strakhovka/) - Slider onepage (responsive)  
