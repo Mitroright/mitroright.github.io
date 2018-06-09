@@ -1,7 +1,10 @@
-# mitroright.github.io
+# [My Github](https://github.com/Mitroright?tab=repositories)
+------
 Projects
-[Future2](/future/) - Test assignment
-[Highsmith](/highsmith/) - Test assignment(responsive) 
-[Strakhovka](/strakhovka/) - Slider onepage (responsive) 
+------  
 [Aware](/aware/) - Shop (responsive)  
 [Foodjistica](/foodjistica/) - Food recipes (responsive)  
+[Strakhovka](/strakhovka/) - Slider onepage (responsive)  
+[Highsmith](/highsmith/) - Test assignment(responsive)  
+[Future2](/future/) - Test assignment  
+
