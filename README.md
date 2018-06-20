@@ -7,4 +7,6 @@
 [Highsmith](/highsmith/) - Test assignment(responsive)  
 [Strakhovka](/strakhovka/) - Slider onepage (responsive)  
   
+=======
+
 
