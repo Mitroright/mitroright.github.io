@@ -150,13 +150,13 @@
 			<h2 class="sec-contact__heading heading">открыть свой ресторан</h2>
 		</div>
 		<form action="#" class="form-contact">
-			<input type="text" class="form-contact__name form-contact__input" placeholder="Ваше имя">
-			<input type="text" class="form-contact__phone form-contact__input" placeholder="Контактный телефон">
-			<input type="text" class="form-contact__email form-contact__input" placeholder="Электронная почта">
-			<input type="text" class="form-contact__city form-contact__input" placeholder="Город открытия">
-			<input type="text" class="form-contact__message form-contact__input" placeholder="Сообщение">
+			<input type="text" class="form-contact__name form-contact__input" placeholder="Ваше имя" name="user-name" required>
+			<input type="tel" class="form-contact__phone form-contact__input" placeholder="Контактный телефон" name="user-phone" required>
+			<input type="email" class="form-contact__email form-contact__input" placeholder="Электронная почта" name="user-email" required>
+			<input type="text" class="form-contact__city form-contact__input" placeholder="Город открытия" name="user-city" required>
+			<input type="text" class="form-contact__message form-contact__input" placeholder="Сообщение" name="user-message">
 			<div class="g-recaptcha" data-sitekey="6Ld5JWAUAAAAAO3UEfXcKmXrHw_c70Fa9ItV9oFe"></div>
-			<button class="form-contact__button" type="button">Отправить заявку</button>
+			<button class="form-contact__button" type="submit">Отправить заявку</button>
 			<div class="form-contact__policy">
 				Нажимая кнопку "Отправить заявку", вы даёте согласие на обработку своих персональных данных
 			</div>
@@ -208,7 +208,13 @@
 			<a href="" class="footer__policy">Политика конфиденциальности</a>
 		</div>
 	</footer>
-
+	<div class="modal-cover">
+		<div class="modal-window">
+			<p class="modal-message">
+				
+			</p>
+		</div>
+	</div>
 	<script src="js/scripts.min.js"></script>
 
 
