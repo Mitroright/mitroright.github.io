@@ -1,0 +1,26 @@
+.checkout-component__information {
+  width: 100%;
+  color: #c6583f;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 19.44px;
+
+  text-align: center;
+  padding-top: 7px;
+  padding-bottom: 7px;
+
+  margin-top: 19px;
+  margin-bottom: 15px;
+
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border: 1px solid #c7583f;
+  background-color: #ffffff;
+  
+  a {
+    color: #4966a1;
+    text-decoration: underline;
+  }
+}

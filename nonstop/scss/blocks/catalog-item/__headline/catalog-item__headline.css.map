@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,wBAAyB;EACvB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,SAAS;EACpB,WAAW,EAAE,GAAG;EAChB,KAAK,EAAE,IAAI;EACX,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;EACnB,eAAe,EAAE,IAAI;EACrB,WAAW,EAAE,GAAG;EAChB,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,IAAI;;AAGlB,sBAAuB;EACrB,KAAK,EAAE,IAAI",
+"sources": ["catalog-item__headline.scss"],
+"names": [],
+"file": "catalog-item__headline.css"
+}

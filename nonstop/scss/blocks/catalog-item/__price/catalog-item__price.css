@@ -1,0 +1,16 @@
+.catalog-item__price {
+  color: #384f6f;
+  font-family: 'Geneva';
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 13.61px;
+  margin: 0 auto; }
+  .catalog-item__price.catalog-item__price_old {
+    color: #ce4834;
+    font-family: 'Geneva';
+    font-size: 1.125rem;
+    font-weight: 400;
+    text-decoration: line-through;
+    margin-bottom: 7px; }
+
+/*# sourceMappingURL=catalog-item__price.css.map */

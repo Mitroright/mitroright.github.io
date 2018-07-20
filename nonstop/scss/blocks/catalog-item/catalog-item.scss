@@ -1,0 +1,25 @@
+@import "__headline/catalog-item__headline.scss";
+@import "__image/catalog-item__image.scss";
+@import "__price/catalog-item__price.scss";
+@import "catalog-item-attribute/catalog-item-attribute.scss";
+@import "__ship/catalog-item__ship.scss";
+@import "catalog-item-headline/catalog-item-headline.scss";
+@import "__sale/catalog-item__sale.scss";
+
+.catalog-item {
+  //max-width: 220px;
+  min-height: 404px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+
+  overflow: hidden;
+
+  border: 1px solid #b4b4b4;
+  padding-bottom: 8px;
+
+  &.catalog-item_small {
+    min-height: auto;
+  }
+}

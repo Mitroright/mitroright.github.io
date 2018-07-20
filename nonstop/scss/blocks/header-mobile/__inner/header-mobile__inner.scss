@@ -1,0 +1,42 @@
+.header-mobile__inner {
+  display: flex;
+  height: 46px;
+  align-items: center;
+  justify-content: space-between;
+
+  .header-mobile__button_stats {
+    position: relative;
+  }
+  .header-mobile__button_favorite {
+    position: relative;
+  }
+  .header-mobile__button_checkout {
+    position: relative;
+
+    .header-mobile__button__count {
+      left: 6px;
+    }
+  }
+  .header-mobile__button__count {
+    position: absolute;
+    text-align: center;
+    width: 19px;
+    height: 19px;
+    line-height: 20px;
+
+    bottom: 11px;
+    left: 2px;
+
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background-color: #c95a3e;
+
+    color: #ffffff;
+    font-family: 'Geneva';
+    font-size: 10px;
+    font-weight: 400;
+    margin-left: 5px;
+  }
+
+}

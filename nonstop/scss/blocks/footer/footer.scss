@@ -1,0 +1,11 @@
+@import "__text/footer__text.scss";
+@import "footer-information/footer-information.scss";
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  margin-bottom: 33px;
+}

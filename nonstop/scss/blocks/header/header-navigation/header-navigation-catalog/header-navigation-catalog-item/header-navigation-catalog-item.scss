@@ -1,0 +1,14 @@
+@import "__headline/header-navigation-catalog-item__headline.scss";
+@import "header-navigation-catalog-item-submenu/header-navigation-catalog-item-submenu.scss";
+
+.header-navigation-catalog-item {
+  &:last-child {
+    a.header-navigation-catalog-item__headline {
+      border: none;
+    }
+  }
+
+  &:hover {
+    background-color: #c95a3e;
+  }
+}

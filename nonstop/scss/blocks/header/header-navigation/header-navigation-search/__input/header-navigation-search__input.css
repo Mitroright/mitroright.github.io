@@ -1,0 +1,22 @@
+.header-navigation-search__input {
+  width: 100%;
+  height: 34px;
+  box-shadow: inset 0 4px 10px rgba(3, 3, 3, 0.26);
+  border: 1px solid #c2c1c1;
+  background-color: #ffffff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding-left: 13px;
+  padding-right: 35px;
+  font-size: 0.8125rem;
+  flex-shrink: 0; }
+  .header-navigation-search__input::placeholder {
+    color: #878686;
+    font-family: 'Helvetica';
+    font-size: 0.8125rem;
+    font-weight: 300; }
+  .header-navigation-search__input:focus::placeholder {
+    opacity: 0; }
+
+/*# sourceMappingURL=header-navigation-search__input.css.map */

@@ -1,0 +1,28 @@
+@import "header-navigation-catalog-item/header-navigation-catalog-item.scss";
+
+.header-navigation-catalog {
+  width: 100%;
+  top: 43px;
+  left: 0;
+  position: absolute;
+  z-index: 10;
+
+  box-shadow: 0 24px 24px rgba(0, 0, 0, 0.5);
+  //border: 1px solid #9e9e9e;
+  //border-bottom-left-radius: 5px;
+  //border-bottom-right-radius: 5px;
+
+  visibility: hidden;
+  opacity: 0;
+
+  -webkit-transition: .3s ease;
+  -moz-transition: .3s ease;
+  -ms-transition: .3s ease;
+  -o-transition: .3s ease;
+  transition: .3s ease;
+  
+  &.header-navigation-catalog_active {
+    opacity: 1;
+    visibility: visible;
+  }
+}

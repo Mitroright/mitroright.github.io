@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,6BAA8B;EAC5B,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,SAAS;EACpB,WAAW,EAAE,GAAG",
+"sources": ["catalog-item-attribute__item.scss"],
+"names": [],
+"file": "catalog-item-attribute__item.css"
+}

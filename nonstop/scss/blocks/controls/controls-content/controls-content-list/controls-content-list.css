@@ -1,0 +1,86 @@
+.controls-content-list__counter {
+  width: 33px;
+  height: 22px;
+  background-color: #908f8f;
+  text-align: center;
+  color: #bab9b9;
+  font-family: 'Geneva';
+  font-size: 0.75rem;
+  line-height: 22px;
+  font-weight: 400;
+  vertical-align: middle;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px; }
+
+.controls-content-list__image {
+  fill: #a1a0a0; }
+
+.controls-content-list__item {
+  display: flex;
+  height: 39px;
+  align-items: center;
+  padding-right: 18px;
+  padding-left: 14px;
+  border-right: 1px solid #908f8f; }
+  .controls-content-list__item:first-child {
+    border-left: 1px solid #908f8f; }
+  .controls-content-list__item.controls-content-list__item_active a.controls-content-list__link {
+    color: #fff; }
+  .controls-content-list__item.controls-content-list__item_active .controls-content-list__counter {
+    background-color: #ca5b3f;
+    color: #fff; }
+  .controls-content-list__item.controls-content-list__item_active .controls-content-list__image {
+    fill: white; }
+
+a.controls-content-list__link {
+  color: #a1a0a0;
+  font-family: 'Geneva';
+  font-size: 0.8125rem;
+  font-weight: 400;
+  margin-left: 15px;
+  margin-right: 13px;
+  text-decoration: none; }
+
+a.controls-content-list-add__button {
+  color: #bab9b9;
+  font-family: 'Geneva';
+  font-size: 0.8125rem;
+  font-weight: 400;
+  width: 142px;
+  height: 29px;
+  background-color: #908f8f;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 29px;
+  text-decoration: none;
+  margin-left: 14px; }
+  a.controls-content-list-add__button.controls-content-list-add__button_active {
+    color: #fff;
+    background-color: #ca5b3f; }
+
+.controls-content-list-add__headline {
+  color: #a1a0a0;
+  font-family: 'Geneva';
+  font-size: 0.8125rem;
+  font-weight: 400;
+  line-height: 0; }
+  .controls-content-list-add__headline.controls-content-list-add__headline_active {
+    color: #fff; }
+
+.controls-content-list-add {
+  display: flex;
+  align-items: center;
+  margin-left: 16px; }
+
+.controls-content-list {
+  height: 39px;
+  align-items: center;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+/*# sourceMappingURL=controls-content-list.css.map */

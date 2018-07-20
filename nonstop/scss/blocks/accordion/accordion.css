@@ -1,0 +1,41 @@
+.accordion__item {
+  width: 100%;
+  height: 35px;
+  text-align: center;
+  color: #394c66;
+  border: 1px solid #394c66;
+  border-right: none;
+  cursor: pointer;
+  line-height: 35px; }
+  .accordion__item:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px; }
+  .accordion__item:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-right: 1px solid #394c66; }
+  .accordion__item.accordion__item_active {
+    color: #fff;
+    background-color: #394c66; }
+
+.accordion__title {
+  padding: 0;
+  margin: 0 0 33px 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between; }
+
+.accordion__body p {
+  color: #4d4b4b;
+  font-family: 'Helvetica';
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 17.01px; }
+.accordion__body .product__info .item {
+  display: flex;
+  justify-content: space-between; }
+
+.accordion__content {
+  display: none; }
+
+/*# sourceMappingURL=accordion.css.map */

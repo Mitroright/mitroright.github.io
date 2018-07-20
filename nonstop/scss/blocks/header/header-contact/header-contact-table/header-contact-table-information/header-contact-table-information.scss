@@ -1,0 +1,14 @@
+@import "__item/header-contact-table-information__item.scss";
+
+.header-contact-table-information {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  height: 60px;
+
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}

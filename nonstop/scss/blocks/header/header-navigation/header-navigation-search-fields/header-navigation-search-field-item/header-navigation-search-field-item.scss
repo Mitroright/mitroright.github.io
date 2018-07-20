@@ -1,0 +1,26 @@
+@import "__checkout/header-navigation-search-field-item__checkout.scss";
+@import "__headline/header-navigation-search-field-item__headline.scss";
+@import "__image/header-navigation-search-field-item__image.scss";
+@import "__price/header-navigation-search-field-item__price.scss";
+@import "__left/header-navigation-search-field-item__left.scss";
+
+.header-navigation-search-field-item {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 13px;
+}
+
+.header-navigation-search-field-item__image-wrapper {
+  width: 65px;
+  height: 65px;
+  border: 1px solid #a4a4a4;
+  background-color: #ffffff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

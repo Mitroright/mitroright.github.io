@@ -1,0 +1,53 @@
+.favorites-wrapper {
+  border-radius: 3px;
+  border: 1px solid #adacac;
+  background-color: #ffffff;
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 89px;
+  padding-bottom: 89px;
+  position: sticky;
+  top: 100px;
+  bottom: 40px; }
+  .favorites-wrapper .favorites__list {
+    width: 100%;
+    border: none;
+    appearance: none;
+    color: #394c67;
+    font-family: 'Helvetica';
+    font-size: 13px;
+    font-weight: 300;
+    padding: 8px 12px;
+    border-radius: 3px;
+    border: 1px solid #394c67;
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-image: url("../../img/icons/icon-favorite-arrow.svg");
+    background-position: calc(100% - 16px) center; }
+  .favorites-wrapper a.favorites__trash {
+    text-decoration: none;
+    color: #747474;
+    font-family: 'Helvetica';
+    font-size: 13px;
+    font-weight: 300;
+    display: flex;
+    align-items: center;
+    margin-top: 27px;
+    margin-bottom: 27px; }
+    .favorites-wrapper a.favorites__trash img {
+      margin-right: 7px; }
+  .favorites-wrapper .favorites__mail {
+    width: 100%; }
+    .favorites-wrapper .favorites__mail input[type="mail"] {
+      width: 100%;
+      margin-bottom: 17px; }
+    .favorites-wrapper .favorites__mail input[type="submit"] {
+      color: #fff;
+      text-align: center;
+      height: 37px;
+      background-color: #394c67;
+      border: none;
+      border-radius: 3px;
+      width: 100%; }
+
+/*# sourceMappingURL=favorites-wrapper.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,2BAA4B;EAC1B,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAC9B,cAAc,EAAE,IAAI;EACpB,WAAW,EAAE,IAAI",
+"sources": ["mobile-catalog-menu__link.scss"],
+"names": [],
+"file": "mobile-catalog-menu__link.css"
+}

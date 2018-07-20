@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,kBAAE;EACA,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,OAAO;AAIpB,qCAAM;EACJ,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa",
+"sources": ["accordion__body.scss"],
+"names": [],
+"file": "accordion__body.css"
+}

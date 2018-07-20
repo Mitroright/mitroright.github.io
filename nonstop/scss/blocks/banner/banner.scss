@@ -1,0 +1,8 @@
+.banner {
+  margin: 0 auto 67px auto;
+  display: inline-block;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

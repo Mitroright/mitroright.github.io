@@ -1,0 +1,14 @@
+@import "__counter/controls-content-list__counter.scss";
+@import "__image/controls-content-list__image.scss";
+@import "__item/controls-content-list__item.scss";
+@import "__link/controls-content-list__link.scss";
+@import "controls-content-list-add/controls-content-list-add.scss";
+
+.controls-content-list {
+  height: 39px;
+  align-items: center;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

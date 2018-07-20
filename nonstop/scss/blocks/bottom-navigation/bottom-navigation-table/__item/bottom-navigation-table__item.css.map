@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,8BAA+B;EAC7B,KAAK,EAAE,IAAI;EACX,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EAEpB,+CAAmB;IACjB,YAAY,EAAE,iBAAiB;EAGjC,kEAAsC;IACpC,OAAO,EAAE,IAAI;IACb,eAAe,EAAE,MAAM;IACvB,cAAc,EAAE,MAAM;IACtB,WAAW,EAAE,MAAM;IACnB,OAAO,EAAE,aAAa;EAGxB,2DAA6B;IAC3B,aAAa,EAAE,CAAC;IAChB,YAAY,EAAE,IAAI",
+"sources": ["bottom-navigation-table__item.scss"],
+"names": [],
+"file": "bottom-navigation-table__item.css"
+}

@@ -1,0 +1,27 @@
+.hamburger {
+  cursor: pointer; }
+  .hamburger span {
+    width: 18px;
+    height: 1px;
+    background-color: #394c67;
+    display: block;
+    margin-top: 4px;
+    margin-bottom: 4px; }
+  .hamburger:before {
+    content: '';
+    width: 18px;
+    height: 1px;
+    background-color: #394c67;
+    display: block; }
+  .hamburger:after {
+    content: '';
+    width: 18px;
+    height: 1px;
+    background-color: #394c67;
+    display: block; }
+  .hamburger:hover:after, .hamburger:hover:before {
+    background-color: #c95a3e; }
+  .hamburger:hover span {
+    background-color: #c95a3e; }
+
+/*# sourceMappingURL=hamburger.css.map */

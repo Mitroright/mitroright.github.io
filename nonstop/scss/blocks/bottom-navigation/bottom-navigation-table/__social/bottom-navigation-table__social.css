@@ -1,0 +1,8 @@
+.bottom-navigation-table__social {
+  width: 100%;
+  display: flex;
+  justify-content: space-between; }
+  .bottom-navigation-table__social a:not(:last-child) {
+    margin-right: 10px; }
+
+/*# sourceMappingURL=bottom-navigation-table__social.css.map */

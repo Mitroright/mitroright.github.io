@@ -1,0 +1,24 @@
+.header-contact-table-number {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 60px;
+  padding-right: 35px;
+  padding-left: 35px;
+  border-right: 1px solid #afb0b0; }
+  .header-contact-table-number .headline {
+    color: #777777;
+    font-family: 'Helvetica';
+    font-size: 0.625rem;
+    font-weight: 400;
+    line-height: 10px;
+    margin-bottom: 4px; }
+  .header-contact-table-number a.link {
+    color: #394c66;
+    font-family: 'Helvetica';
+    font-size: 1.1875rem;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 19px; }
+
+/*# sourceMappingURL=header-contact-table-number.css.map */

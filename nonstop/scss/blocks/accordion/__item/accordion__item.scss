@@ -1,0 +1,27 @@
+.accordion__item {
+  width: 100%;
+  height: 35px;
+  text-align: center;
+  color: #394c66;
+
+  border: 1px solid #394c66;
+  border-right: none;
+  cursor: pointer;
+  line-height: 35px;
+
+  &:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  &:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-right: 1px solid #394c66;
+  }
+
+  &.accordion__item_active {
+    color: #fff;
+    background-color: #394c66;
+  }
+}

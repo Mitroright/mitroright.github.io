@@ -1,0 +1,10 @@
+@import "__item/mobile-navigation-submenu__item.scss";
+@import "__link/mobile-navigation-submenu__link.scss";
+
+.mobile-navigation-submenu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  line-height: 25px;
+  display: none;
+}

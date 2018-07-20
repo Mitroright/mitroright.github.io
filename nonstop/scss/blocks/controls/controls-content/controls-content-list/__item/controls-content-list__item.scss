@@ -1,0 +1,28 @@
+.controls-content-list__item {
+  display: flex;
+  height: 39px;
+  align-items: center;
+  padding-right: 18px;
+  padding-left: 14px;
+
+  border-right: 1px solid #908f8f;
+
+  &:first-child {
+    border-left: 1px solid #908f8f;
+  }
+
+  &.controls-content-list__item_active {
+    a.controls-content-list__link {
+      color: #fff;
+    }
+
+    .controls-content-list__counter {
+      background-color: #ca5b3f;
+      color: #fff;
+    }
+
+    .controls-content-list__image {
+      fill: white;
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,qCAAsC;EACpC,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,SAAS;EACpB,WAAW,EAAE,GAAG;EAChB,aAAa,EAAE,IAAI",
+"sources": ["header-navigation-search-field__name.scss"],
+"names": [],
+"file": "header-navigation-search-field__name.css"
+}

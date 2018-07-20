@@ -1,0 +1,15 @@
+.controls-mail__headline {
+  color: #ffffff;
+  font-family: 'Geneva';
+  font-size: 0.8125rem;
+  font-weight: 400;
+  margin-left: 18px; }
+
+a.controls-mail {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding-left: 18px;
+  border-left: 1px solid #908f8f; }
+
+/*# sourceMappingURL=controls-mail.css.map */

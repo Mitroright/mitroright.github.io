@@ -1,0 +1,22 @@
+@import "__item/header-navigation-menu__item.scss";
+@import "__link/header-navigation-menu__link.scss";
+
+.header-navigation-menu {
+  height: 34px;
+
+  border-top: 1px solid #394c66;
+  border-bottom: 1px solid #394c66;
+
+  padding: 0 26px 0 26px;
+  margin: 0;
+  list-style: none;
+
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &.header-navigation-menu_hide {
+    display: none;
+  }
+}

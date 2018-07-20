@@ -1,0 +1,30 @@
+.mobile-category {
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 28px;
+  padding-right: 28px;
+  padding-bottom: 44px;
+  display: none; }
+  .mobile-category a:not(:last-child) {
+    margin-right: 30px; }
+  .mobile-category.mobile-category_center {
+    justify-content: center; }
+
+.mobile-category__select {
+  width: 282px;
+  height: 43px;
+  border-radius: 3px;
+  border: 1px solid #394c66;
+  background-color: #ffffff;
+  appearance: none;
+  padding-left: 20px;
+  color: #394c66;
+  font-family: 'Helvetica';
+  font-size: 13px;
+  font-weight: 300;
+  text-align: center;
+  background-image: url("../../../img/icons/icon-select-arrow.svg");
+  background-repeat: no-repeat;
+  background-position: calc(100% - 20px) center; }
+
+/*# sourceMappingURL=mobile-category.css.map */

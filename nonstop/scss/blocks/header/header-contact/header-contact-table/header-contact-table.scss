@@ -1,0 +1,19 @@
+@import "__callback/header-contact-table__callback.scss";
+@import "header-contact-table-information/header-contact-table-information.scss";
+@import "header-contact-table-number/header-contact-table-number.scss";
+
+
+.header-contact-table {
+  width: 100%;
+  height: 93px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #afb0b0;
+  padding: 16px 23px;
+}

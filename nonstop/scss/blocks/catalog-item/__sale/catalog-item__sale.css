@@ -1,0 +1,24 @@
+.catalog-item__sale {
+  position: absolute;
+  text-align: center;
+  height: 55px;
+  line-height: 75px;
+  width: 100%;
+  color: #ffffff;
+  font-family: 'Geneva';
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #ca5b3e;
+  top: -5px;
+  left: -94px;
+  transform: rotate(-45deg); }
+  .catalog-item__sale.catalog-item__sale_popular {
+    line-height: 1.2;
+    padding-top: 20px;
+    background-color: #e1a644; }
+  .catalog-item__sale.catalog-item__sale_new {
+    line-height: 1.2;
+    padding-top: 30px;
+    background-color: #b9c44d; }
+
+/*# sourceMappingURL=catalog-item__sale.css.map */

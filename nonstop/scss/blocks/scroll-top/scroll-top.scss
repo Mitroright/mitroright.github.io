@@ -1,0 +1,19 @@
+.scroll-top {
+  width: 75px;
+  height: 40px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.35);
+  background-color: #ffffff;
+  position: fixed;
+  bottom: 80px;
+  right: 40px;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+
+  z-index: 5;
+
+  &.scroll-top_active {
+    display: flex;
+  }
+}

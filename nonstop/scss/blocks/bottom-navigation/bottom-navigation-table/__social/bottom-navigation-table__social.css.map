@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gCAAiC;EAC/B,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,aAAa;EAE9B,mDAAmB;IACjB,YAAY,EAAE,IAAI",
+"sources": ["bottom-navigation-table__social.scss"],
+"names": [],
+"file": "bottom-navigation-table__social.css"
+}

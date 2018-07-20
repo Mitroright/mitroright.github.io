@@ -1,0 +1,35 @@
+.mobile-navigation-list__item {
+  color: #394c66;
+  font-family: 'Helvetica';
+  font-size: 13px;
+  font-weight: 300; }
+
+.mobile-navigation-submenu__link {
+  color: #4f4f4f;
+  font-family: 'Helvetica';
+  font-size: 13px;
+  font-weight: 300; }
+
+.mobile-navigation-submenu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  line-height: 25px;
+  display: none; }
+
+.mobile-navigation-list__headline {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+
+.mobile-navigation-list {
+  padding: 14px 13px;
+  margin: 0;
+  list-style: none;
+  background-color: #f9fafa;
+  border-top: 1px solid #bababa; }
+  .mobile-navigation-list.mobile-navigation-list_active .mobile-navigation-list__item .mobile-navigation-list__headline img {
+    transform: rotate(180deg); }
+
+/*# sourceMappingURL=mobile-navigation-list.css.map */

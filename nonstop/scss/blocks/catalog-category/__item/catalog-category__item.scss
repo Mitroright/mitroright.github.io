@@ -1,0 +1,32 @@
+.catalog-category__item {
+  width: 100%;
+  border-right: 1px solid #c3c1c1;
+  border-top: 1px solid #c3c1c1;
+  border-bottom: 1px solid #c3c1c1;
+
+
+  &:first-child {
+    border-left: 1px solid #c3c1c1;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  &:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+  &.catalog-category__item_active {
+    border-color: #314c71;
+    .catalog-category__link {
+      color: #fff;
+      background-color: #394c66;
+    }
+  }
+
+  &.catalog-category__item_red {
+    .catalog-category__link {
+      color: #c95a3e;
+    }
+  }
+}

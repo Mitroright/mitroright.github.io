@@ -1,0 +1,33 @@
+.sity-component__headline {
+  color: #394c66;
+  font-family: 'Helvetica';
+  font-size: 34px;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 17.01px;
+  margin-bottom: 25px;
+  line-height: 1.2; }
+
+.sity-component__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: inline-block; }
+  .sity-component__list .item a.link {
+    color: #394c66;
+    font-family: 'Helvetica';
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 29.17px;
+    text-decoration: none; }
+
+.sity-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between; }
+
+.sity-component {
+  margin-top: 60px;
+  margin-bottom: 75px; }
+
+/*# sourceMappingURL=sity-component.css.map */

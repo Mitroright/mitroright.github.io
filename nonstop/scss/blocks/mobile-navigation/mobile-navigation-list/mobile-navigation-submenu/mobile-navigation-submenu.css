@@ -1,0 +1,14 @@
+.mobile-navigation-submenu__link {
+  color: #4f4f4f;
+  font-family: 'Helvetica';
+  font-size: 13px;
+  font-weight: 300; }
+
+.mobile-navigation-submenu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  line-height: 25px;
+  display: none; }
+
+/*# sourceMappingURL=mobile-navigation-submenu.css.map */

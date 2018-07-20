@@ -1,0 +1,13 @@
+.last-items {
+  .content-slider {
+    &.owl-theme {
+      .owl-nav {
+        top: 74px;
+      }
+    }
+  }
+
+  .catalog-item {
+    max-width: 237px;
+  }
+}

@@ -1,0 +1,78 @@
+.filter-item__headline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #070707;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 29.17px; }
+
+.filter-item-container__item {
+  display: flex;
+  align-items: center;
+  width: 100%; }
+  .filter-item-container__item label {
+    margin: 0 4px 0 0;
+    padding: 0; }
+  .filter-item-container__item input {
+    width: 78px;
+    width: 80%;
+    height: 24px;
+    text-align: right;
+    padding-left: 5px;
+    padding-right: 5px; }
+
+.filter-item-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 27px; }
+  .filter-item-container .filter-item-container__item:not(:last-child) {
+    margin-right: 15px; }
+
+.ui-widget-header {
+  background-color: #c6573d; }
+
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+  height: 4px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px; }
+
+.ui-widget.ui-widget-content {
+  border: none;
+  background-color: grey; }
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+  border: none;
+  background: none;
+  background-image: url("../../../../../img/icons/icon-ui-slider.svg");
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.ui-slider-horizontal .ui-slider-handle {
+  top: 4px; }
+
+.filter-item {
+  width: 100%;
+  cursor: pointer;
+  padding: 13px 12px;
+  border-left: 1px solid #b9b9b9;
+  border-right: 1px solid #b9b9b9;
+  border-bottom: 1px solid #b9b9b9;
+  background-color: #ffffff; }
+  .filter-item:first-child {
+    border-top: 1px solid #b9b9b9;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; }
+  .filter-item:last-child {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px; }
+  .filter-item.filter-item_active .filter-item__headline img {
+    transform: rotate(180deg); }
+  .filter-item .filter-content {
+    display: none; }
+
+/*# sourceMappingURL=filter-item.css.map */

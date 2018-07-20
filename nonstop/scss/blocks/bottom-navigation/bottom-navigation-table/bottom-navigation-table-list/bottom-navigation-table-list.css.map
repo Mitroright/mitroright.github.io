@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,oCAAqC;EACnC,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,SAAS;EACpB,WAAW,EAAE,GAAG;EAChB,eAAe,EAAE,IAAI;;ACFvB,6BAA8B;EAC5B,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,GAAG",
+"sources": ["__link/bottom-navigation-table-list__link.scss","bottom-navigation-table-list.scss"],
+"names": [],
+"file": "bottom-navigation-table-list.css"
+}

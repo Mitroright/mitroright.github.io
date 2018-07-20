@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0BAA2B;EACzB,KAAK,EAAE,IAAI;EACX,aAAa,EAAE,iBAAiB;EAG9B,mFAA2B;IACzB,SAAS,EAAE,IAAI;IACf,OAAO,EAAE,KAAK;IACd,wFAAK;MACH,KAAK,EAAE,OAAO;MACd,OAAO,EAAE,KAAK;MACd,SAAS,EAAE,IAAI;EAMnB,oFAA2B;IACzB,OAAO,EAAE,KAAK;IACd,KAAK,EAAE,OAAO;IACd,SAAS,EAAE,IAAI;IAEf,wFAAI;MACF,SAAS,EAAE,cAAc;MACzB,YAAY,EAAE,IAAI",
+"sources": ["mobile-catalog-menu__item.scss"],
+"names": [],
+"file": "mobile-catalog-menu__item.css"
+}

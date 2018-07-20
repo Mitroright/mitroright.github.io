@@ -1,0 +1,40 @@
+.hamburger {
+  cursor: pointer;
+
+  span {
+    width: 18px;
+    height: 1px;
+    background-color: #394c67;
+    display: block;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+
+  &:before {
+    content: '';
+    width: 18px;
+    height: 1px;
+    background-color: #394c67;
+    display: block;
+  }
+
+  &:after {
+    content: '';
+    width: 18px;
+    height: 1px;
+    background-color: #394c67;
+    display: block;
+  }
+
+  &:hover {
+
+    &:after, &:before {
+
+      background-color: #c95a3e;
+    }
+
+    span {
+      background-color: #c95a3e;
+    }
+  }
+}

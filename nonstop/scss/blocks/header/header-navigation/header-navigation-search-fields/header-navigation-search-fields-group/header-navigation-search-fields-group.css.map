@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,sCAAuC;EACrC,aAAa,EAAE,IAAI",
+"sources": ["header-navigation-search-fields-group.scss"],
+"names": [],
+"file": "header-navigation-search-fields-group.css"
+}

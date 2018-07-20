@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="22"
+     viewBox="0 0 25 22">
+    <defs>
+        <path id="lgsla" d="M907.18 6281.63a1.65 1.65 0 1 1 0 3.3 1.65 1.65 0 0 1 0-3.3z"/>
+        <path id="lgslb" d="M916.18 6281.63a1.65 1.65 0 1 1 0 3.3 1.65 1.65 0 0 1 0-3.3z"/>
+        <path id="lgslc" d="M894.9 6264v-1h8.09v1z"/>
+        <path id="lgsld" d="M905.01 6267.98v-1h14.96v1z"/>
+        <path id="lgsle" d="M905.03 6280.06v-1H919v1z"/>
+        <path id="lgslf" d="M919.1 6266.95l.99.1-1.13 12.9-1-.09z"/>
+        <path id="lgslg" d="M901.93 6263.08l.99-.18 3.05 16.91-.98.18z"/>
+    </defs>
+    <g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgsla"/>
+        </g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgslb"/>
+        </g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgslc"/>
+        </g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgsld"/>
+        </g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgsle"/>
+        </g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgslf"/>
+        </g>
+        <g class="icon-color" transform="translate(-895 -6263)">
+            <use xlink:href="#lgslg"/>
+        </g>
+    </g>
+</svg>

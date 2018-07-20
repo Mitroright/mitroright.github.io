@@ -1,0 +1,11 @@
+.accordion__body p {
+  color: #4d4b4b;
+  font-family: 'Helvetica';
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 17.01px; }
+.accordion__body .product__info .item {
+  display: flex;
+  justify-content: space-between; }
+
+/*# sourceMappingURL=accordion__body.css.map */

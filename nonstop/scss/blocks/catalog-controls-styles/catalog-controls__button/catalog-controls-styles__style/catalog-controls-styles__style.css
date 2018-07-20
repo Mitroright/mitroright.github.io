@@ -1,0 +1,24 @@
+.catalog-controls-styles__style {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 27px;
+  height: 27px;
+  cursor: pointer;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #fff; }
+  .catalog-controls-styles__style.catalog-controls-styles__style_active {
+    background-color: #394c66; }
+  .catalog-controls-styles__style:not(.catalog-controls-styles__style_active) {
+    border: 1px solid #a9a7a7; }
+  .catalog-controls-styles__style.catalog-controls-styles__style_left {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    background-image: url("../../../../../img/icons/icon-controls-group-1.svg"); }
+  .catalog-controls-styles__style.catalog-controls-styles__style_right {
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    background-image: url("../../../../../img/icons/icon-controls-group-2.svg"); }
+
+/*# sourceMappingURL=catalog-controls-styles__style.css.map */

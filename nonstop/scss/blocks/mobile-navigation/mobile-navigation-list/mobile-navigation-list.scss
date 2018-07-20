@@ -1,0 +1,21 @@
+@import "__item/mobile-navigation-list__item.scss";
+@import "mobile-navigation-submenu/mobile-navigation-submenu.scss";
+@import "__headline/mobile-navigation-list__headline.scss";
+
+.mobile-navigation-list {
+  padding: 14px 13px;
+  margin: 0;
+  list-style: none;
+  background-color: #f9fafa;
+  border-top: 1px solid #bababa;
+
+  &.mobile-navigation-list_active {
+    .mobile-navigation-list__item {
+      .mobile-navigation-list__headline {
+        img {
+          transform: rotate(180deg);
+        }
+      }
+    }
+  }
+}

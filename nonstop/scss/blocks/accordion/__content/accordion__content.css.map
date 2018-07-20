@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,mBAAoB;EAClB,OAAO,EAAE,IAAI",
+"sources": ["accordion__content.scss"],
+"names": [],
+"file": "accordion__content.css"
+}

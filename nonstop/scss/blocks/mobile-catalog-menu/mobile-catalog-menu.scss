@@ -1,0 +1,14 @@
+@import "__item/mobile-catalog-menu__item.scss";
+@import "__link/mobile-catalog-menu__link.scss";
+
+.mobile-catalog-menu {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  a.catalog-grid__load {
+    border-left: none;
+    border-right: none;
+    margin-bottom: 44px;
+  }
+}

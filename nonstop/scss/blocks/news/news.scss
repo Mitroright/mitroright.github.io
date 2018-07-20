@@ -1,0 +1,8 @@
+@import "__date/news__date.scss";
+@import "__link/news__link.scss";
+
+.news {
+  &:not(:last-child) {
+    margin-bottom: 29px;
+  }
+}

@@ -1,0 +1,10 @@
+.checkout-component__row {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+
+  &.checkout-component__row_small {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+}

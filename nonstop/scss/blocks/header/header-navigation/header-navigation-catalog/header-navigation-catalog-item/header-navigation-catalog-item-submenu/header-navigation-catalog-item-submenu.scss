@@ -1,0 +1,9 @@
+@import "__item/_item.scss";
+
+.header-navigation-catalog-item-submenu {
+  display: none;
+
+  &.header-navigation-catalog-item-submenu_active {
+    display: block;
+  }
+}

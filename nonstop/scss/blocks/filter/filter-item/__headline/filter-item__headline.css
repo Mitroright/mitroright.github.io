@@ -1,0 +1,11 @@
+.filter-item__headline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #070707;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 29.17px; }
+
+/*# sourceMappingURL=filter-item__headline.css.map */

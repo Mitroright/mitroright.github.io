@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yBAA0B;EACzB,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,OAAO;EACpB,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,GAAG",
+"sources": ["sity-component__headline.scss"],
+"names": [],
+"file": "sity-component__headline.css"
+}

@@ -1,0 +1,14 @@
+a.bottom-navigation-table-list__link {
+  color: #4f4f4f;
+  font-family: 'Helvetica';
+  font-size: 0.8125rem;
+  font-weight: 300;
+  text-decoration: none; }
+
+.bottom-navigation-table-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  line-height: 1.4; }
+
+/*# sourceMappingURL=bottom-navigation-table-list.css.map */

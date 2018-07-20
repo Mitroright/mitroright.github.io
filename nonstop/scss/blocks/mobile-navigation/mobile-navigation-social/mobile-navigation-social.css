@@ -1,0 +1,20 @@
+.mobile-navigation-social__inner {
+  max-width: 184px;
+  margin: 0 auto;
+  text-align: center; }
+  .mobile-navigation-social__inner .headline {
+    color: #777777;
+    font-family: 'Helvetica';
+    font-size: 10px;
+    font-weight: 300;
+    margin-bottom: 9px; }
+
+.mobile-navigation-social {
+  width: 100%;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  background-color: #f9fafa;
+  border-bottom: 1px solid #bababa;
+  border-top: 1px solid #bababa; }
+
+/*# sourceMappingURL=mobile-navigation-social.css.map */

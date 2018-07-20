@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0BAA2B;EACzB,UAAU,EAAE,MAAM;EAElB,+CAAqB;IACnB,SAAS,EAAE,IAAI;IAEf,uEAA0B;MACxB,SAAS,EAAE,IAAI;MACf,aAAa,EAAE,IAAI",
+"sources": ["checkout-component__price.scss"],
+"names": [],
+"file": "checkout-component__price.css"
+}

@@ -1,0 +1,16 @@
+.filter-item-container__item {
+  display: flex;
+  align-items: center;
+  width: 100%; }
+  .filter-item-container__item label {
+    margin: 0 4px 0 0;
+    padding: 0; }
+  .filter-item-container__item input {
+    width: 78px;
+    width: 80%;
+    height: 24px;
+    text-align: right;
+    padding-left: 5px;
+    padding-right: 5px; }
+
+/*# sourceMappingURL=filter-item-container__item.css.map */

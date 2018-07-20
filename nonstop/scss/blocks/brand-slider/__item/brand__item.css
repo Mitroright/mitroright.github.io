@@ -1,0 +1,10 @@
+.brand__item {
+  width: 204px;
+  height: 204px;
+  border: 1px solid #989898;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden; }
+
+/*# sourceMappingURL=brand__item.css.map */

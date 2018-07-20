@@ -1,0 +1,17 @@
+@import "__item/catalog-category__item.scss";
+@import "__link/catalog-category__link.scss";
+@import "catalog-category-more/catalog-category-more.scss";
+
+.catalog-category {
+  padding: 0;
+  margin: 28px 0 22px 0;
+  list-style: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &.catalog-controls__small {
+  	background-color: red;
+  }
+}

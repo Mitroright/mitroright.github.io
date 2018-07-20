@@ -1,0 +1,26 @@
+.header-navigation__catalog {
+  width: 235px;
+  height: 35px;
+  border: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background-color: #394c66;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
+  flex-shrink: 0;
+  margin-right: 19px; }
+  .header-navigation__catalog span {
+    color: #fff;
+    font-family: 'Helvetica';
+    font-size: 0.9375rem;
+    font-weight: 300;
+    line-height: 0;
+    margin-left: 15px;
+    margin-right: 33px; }
+
+/*# sourceMappingURL=header-navigation__catalog.css.map */

@@ -1,0 +1,14 @@
+.sity-component__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: inline-block; }
+  .sity-component__list .item a.link {
+    color: #394c66;
+    font-family: 'Helvetica';
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 29.17px;
+    text-decoration: none; }
+
+/*# sourceMappingURL=sity-component__list.css.map */

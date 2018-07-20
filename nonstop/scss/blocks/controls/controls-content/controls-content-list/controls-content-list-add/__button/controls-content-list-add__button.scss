@@ -1,0 +1,22 @@
+a.controls-content-list-add__button {
+  color: #bab9b9;
+  font-family: 'Geneva';
+  font-size: 0.8125rem;
+  font-weight: 400;
+
+  width: 142px;
+  height: 29px;
+  background-color: #908f8f;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 29px;
+  text-decoration: none;
+  margin-left: 14px;
+
+  &.controls-content-list-add__button_active {
+    color: #fff;
+    background-color: #ca5b3f;
+  }
+}

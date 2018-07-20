@@ -1,0 +1,31 @@
+.header-contact-table-number {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  height: 60px;
+
+  padding-right: 35px;
+  padding-left: 35px;
+
+  border-right: 1px solid #afb0b0;
+
+  .headline {
+    color: #777777;
+    font-family: 'Helvetica';
+    font-size: 0.625rem;
+    font-weight: 400;
+    line-height: 10px;
+    margin-bottom: 4px;
+  }
+
+  a.link {
+    color: #394c66;
+    letter-spacing: 0.08em;
+    font-family: 'Helvetica';
+    font-size: 1.1875rem;
+    font-weight: 600;
+    text-decoration: none;
+    line-height: 19px;
+  }
+}

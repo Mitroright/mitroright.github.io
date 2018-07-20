@@ -1,0 +1,31 @@
+@import "filter-item/filter-item.scss";
+
+.filter {
+
+}
+
+#slider-range {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.long-filter {
+  overflow: auto;
+  height: 372px;
+  margin-top: 30px;
+}
+.long-filter::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+.long-filter::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 10px grey;
+  border-radius: 20px;
+}
+
+/* Handle */
+.long-filter::-webkit-scrollbar-thumb {
+  background: #3A4B67;
+  border-radius: 20px;
+}

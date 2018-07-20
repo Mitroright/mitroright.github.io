@@ -1,0 +1,15 @@
+@import "header-contact-table/header-contact-table.scss";
+@import "logo/__image/header-contact-logo__image.scss";
+@import "logo/__link/header-contact-logo__link.scss";
+
+.header-contact {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+
+  .header-contact-table-number-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+}

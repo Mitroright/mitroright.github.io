@@ -1,0 +1,11 @@
+.slider-container__item {
+  width: 100%;
+  height: 407px;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px; }
+
+/*# sourceMappingURL=slider-container__item.css.map */

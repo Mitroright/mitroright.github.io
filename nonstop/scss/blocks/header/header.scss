@@ -1,0 +1,10 @@
+@import "header-contact/header-contact.scss";
+@import "header-navigation/header-navigation.scss";
+
+.header {
+  padding-top: 12px;
+  padding-bottom: 28px;
+  position: relative;
+  z-index: 10;
+  background-color: #fff;
+}

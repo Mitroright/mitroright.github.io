@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGM,8CAAS;EACP,GAAG,EAAE,IAAI;AAKf,yBAAc;EACZ,SAAS,EAAE,KAAK",
+"sources": ["last-items.scss"],
+"names": [],
+"file": "last-items.css"
+}

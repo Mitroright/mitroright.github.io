@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM",
+"sources": ["brand__row.scss"],
+"names": [],
+"file": "brand__row.css"
+}

@@ -1,0 +1,10 @@
+@import "__headline/controls-mail__headline.scss";
+@import "__image/controls-mail__image.scss";
+
+a.controls-mail {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding-left: 18px;
+  border-left: 1px solid #908f8f;
+}

@@ -1,0 +1,8 @@
+@import "_mixins/font-face";
+
+// Geneva
+/* @include font-face("Geneva", "../fonts/Helvetica/HelveticaLight/HelveticaLight", normal); */
+@include font-face("Geneva", "../fonts/Helvetica/HelveticaLight/HelveticaLight", normal);
+
+// Helvetica
+@include font-face("Helvetica", "../fonts/Helvetica/HelveticaLight/HelveticaLight", 300);

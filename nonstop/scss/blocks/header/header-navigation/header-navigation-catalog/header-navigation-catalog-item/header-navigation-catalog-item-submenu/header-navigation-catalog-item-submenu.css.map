@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,8CAA+C;EAC7C,gBAAgB,EAAE,IAAI;EACtB,OAAO,EAAE,KAAK;EACd,eAAe,EAAE,IAAI;EAErB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EAEpB,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,SAAS;EACpB,WAAW,EAAE,GAAG;EAChB,eAAe,EAAE,IAAI;EAErB,aAAa,EAAE,iBAAiB;;ACflC,uCAAwC;EACtC,OAAO,EAAE,IAAI;EAEb,qFAAgD;IAC9C,OAAO,EAAE,KAAK",
+"sources": ["__item/__item.scss","header-navigation-catalog-item-submenu.scss"],
+"names": [],
+"file": "header-navigation-catalog-item-submenu.css"
+}

@@ -1,0 +1,36 @@
+@import "__headline/filter-item__headline.scss";
+@import "filter-item-container/filter-item-container.scss";
+
+.filter-item {
+  width: 100%;
+  cursor: pointer;
+  padding: 13px 12px;
+  border-left: 1px solid #b9b9b9;
+  border-right: 1px solid #b9b9b9;
+  border-bottom: 1px solid #b9b9b9;
+  background-color: #ffffff;
+
+  &:first-child {
+    border-top: 1px solid #b9b9b9;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  }
+
+  &:last-child {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+  &.filter-item_active {
+    .filter-item__headline {
+      img {
+        transform: rotate(180deg);
+      }
+    }
+  }
+
+  .filter-content {
+    display: none;
+
+  }
+}

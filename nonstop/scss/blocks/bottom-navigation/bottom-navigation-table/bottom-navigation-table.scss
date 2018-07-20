@@ -1,0 +1,16 @@
+@import "__headline/bottom-navigation-table__headline.scss";
+@import "__item/bottom-navigation-table__item.scss";
+@import "__social/bottom-navigation-table__social.scss";
+@import "bottom-navigation-table-list/bottom-navigation-table-list.scss";
+
+.bottom-navigation-table {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #b9b8b8;
+
+  display: flex;
+  //align-items: center;
+  justify-content: space-between;
+}

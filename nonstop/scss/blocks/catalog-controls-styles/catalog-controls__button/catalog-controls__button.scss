@@ -1,0 +1,11 @@
+@import "catalog-controls-styles__button/catalog-controls-styles__button.scss";
+@import "catalog-controls-styles__style/catalog-controls-styles__style.scss";
+
+.catalog-controls__button {
+  width: 27px;
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}

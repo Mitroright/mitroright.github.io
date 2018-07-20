@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kCAAmC;EACjC,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,SAAS;EACpB,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,OAAO;EACpB,eAAe,EAAE,SAAS;EAC1B,cAAc,EAAE,IAAI;EACpB,WAAW,EAAE,IAAI",
+"sources": ["popular-category-slider__headline.scss"],
+"names": [],
+"file": "popular-category-slider__headline.css"
+}
